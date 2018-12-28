@@ -15,6 +15,7 @@ div.container#vlak{
 }
 h1{
     text-align: center;
+    margin-top: 15px;
 }
 
 p{
@@ -24,4 +25,8 @@ p{
 
 a{
     color: #3a3a3a;
+}
+
+a.nav-link{
+text-align: right;
 }
