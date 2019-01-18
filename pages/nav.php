@@ -30,8 +30,8 @@
           Over Shinkendo
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Wat is Shinkendo</a>
-          <a class="dropdown-item" href="#">Geschiedenis van Shinkendo</a>
+          <a class="dropdown-item" href="over.php">Wat is Shinkendo</a>
+          <a class="dropdown-item" href="over.php#gvs">Geschiedenis van Shinkendo</a>
           <a class="dropdown-item" href="#">De vijf pilaren</a>
           <a class="dropdown-item" href="#">Toyama Ryu</a>
         </div>

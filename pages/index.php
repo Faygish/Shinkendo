@@ -25,9 +25,6 @@
     <div class="carousel-item active">
       <img src="../img/carousel1.jpg" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
-      <img src="../img/carousel3.jpg" class="d-block w-100" alt="...">
-    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -47,7 +44,7 @@
       <br>
        Door Shinkendo training zal je jouw kracht, conditie en coördinatievermogen vergroten, waardoor je algehele fysieke en mentale gesteldheid verbeterd wordt.  
        <br>
-       <a href="">[Lees meer...]</a>    
+       <a href="over.php">[Lees meer...]</a>    
     </p>
 
 </div>
