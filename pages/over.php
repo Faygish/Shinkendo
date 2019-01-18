@@ -85,6 +85,48 @@
     </p>
     </div>
     <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
+    <div id="goho">
+      <h1>Goho Gorin Gogyo</h1>
+      <h3>De 5 elementen van het zwaardvechten</h3>
+      <p>Shinkendo training is opgedeeld in 5 aparte elementen, met elk hun eigen belangrijke en specifieke doel.</p>
+
+<p id="gohoGorin"><b>Suburi</b></p>
+
+<p>Suburi betekent zwaardslag oefening. In Shinkendo worden hiermee correcte zwaardslagen, juiste voetenwerk en lichaamsbeweging geoefend. Deze fundamentele onderdelen zijn een cruciaal onderdeel en vormen de basis van een goede training.</p>
+
+<p id="gohoGorin"><b>Battoho</b></p>
+
+<p>Tijdens battoho training wordt geleerd hoe het zwaard in een gevechtssituatie te trekken en terug te stoppen in de schede. Leerlingen beginnen hun training met een bokuto (houten zwaard) en leren hoe je het zwaard op een effectieve manier in diverse richtingen kan trekken. Gevorderde studenten gebruiken later een Iaito, een niet-geslepen oefenzwaard, en kunnen later oefenen met een Shinken, oftewel een echt zwaard.
+Trektechnieken vanuit een zittende positie (Suwari Iai) worden in Shinkendo niet gebruikt. Deze technieken zijn onpraktisch en veelal onveilig. In plaats daarvan worden trektechnieken vanuit de traditionele Fudo (staande) of Tachiaigoshi (knielende) houdingen geoefend.</p>
+
+<p id="gohoGorin"><b>Tanrengata</b></p>
+
+<p>De hoofd solovormen die beoefend worden in Shinkendo, worden Tanrengata genoemd. De term “Tanren” komt uit het zwaardsmeden en betekent het verwijderen van onzuiverheden uit het staal.
+Shinkendo kata leggen de nadruk op vloeiende bewegingen, soepele balansverplaatsingen, en een effectieve combinatie van lichaams- en zwaardbewegingen.</p>
+
+<p id="gohoGorin"><b>Tachiuchi</b></p>
+
+<p>Koryu kenjutsu is een vorm van partnertraining vanuit een positie waar beide partijen hun zwaard al hebben getrokken. In Japan bestaan nog veel kenjutsu stijlen. Training wordt veelal gedaan met een bokuto (houten zwaard), maar soms ook met een fukuro shinai (oefenzwaard van gespleten bamboe, omwikkeld met een zachte hoes). De belangrijke aspecten van koryu kenjutsu zijn opgenomen in Shinkendo onder de term Tachiuchi, oftewel vooraf bepaalde oefeningen voor 2 personen.</p>
+
+<p>Kendo is een sparring vorm waarbij een Bogu (harnas) en shinai (bamboe zwaard) worden gebruikt.
+Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal staan. Echter de waardevolle tactieken die in Kendo worden gebruikt, zijn opgenomen in Shinkendo als diverse Tachiuchi vormen.</p>
+
+<p id="gohoGorin"><b>Tameshigiri</b></p>
+
+<p>Tijdens Tameshigiri worden echte zwaarden gebruikt op opgerolde tatami omote matten, om zo de techniek, vorm en accuratesse van de zwaardvechter te testen. Voor dit trainingsonderdeel is veel concentratie en techniek vereist, maar geeft tastbare en waardevolle feedback.</p>
+
+<p>Testsnijden is echter slechts één onderdeel van zwaardvechttraining, en moet niet gezien worden als het uiteindelijke doel van de training, of als vermaak of sport. Het snijden van ongeschikte materialen zoals fruit, waterflessen, etc. worden absoluut niet aangeraden of aangemoedigd. Het Japanse zwaardvechten dient met respect en oprechtheid te worden benaderd.
+</p>
+    </div>
+
+    <div id="toyama">
+<h1>Toyama Ryu</h1>
+
+<p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan dat van westerse sabels.
+De technieken in Toyama Ryu vinden hun oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van trektechnieken, maar is tegenwoordig een op zichzelfs staande zwaardkunst.</p>
+
+</div>
+
 </div>
 
     <!-- Optional JavaScript -->
