@@ -16,6 +16,7 @@
 <div class="container" id="vlak">
     <div id="wis">
     <h1> Wat is Shinkendo</h1>
+    <hr>
     
     <p>Shinkendo is een zwaardvechtsport waarin je leert om te gaan met het Japanse zwaard, de katana. 
       <br>
@@ -85,9 +86,11 @@
     </p>
     </div>
     <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
+    <br>
     <div id="goho">
       <h1>Goho Gorin Gogyo</h1>
       <h3>De 5 elementen van het zwaardvechten</h3>
+      <hr>
       <p>Shinkendo training is opgedeeld in 5 aparte elementen, met elk hun eigen belangrijke en specifieke doel.</p>
 
 <p id="gohoGorin"><b>Suburi</b></p>
@@ -118,9 +121,11 @@ Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal s
 <p>Testsnijden is echter slechts één onderdeel van zwaardvechttraining, en moet niet gezien worden als het uiteindelijke doel van de training, of als vermaak of sport. Het snijden van ongeschikte materialen zoals fruit, waterflessen, etc. worden absoluut niet aangeraden of aangemoedigd. Het Japanse zwaardvechten dient met respect en oprechtheid te worden benaderd.
 </p>
     </div>
-
+    <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
+    <br>
     <div id="toyama">
 <h1>Toyama Ryu</h1>
+<hr>
 
 <p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan dat van westerse sabels.
 De technieken in Toyama Ryu vinden hun oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van trektechnieken, maar is tegenwoordig een op zichzelfs staande zwaardkunst.</p>

@@ -41,7 +41,7 @@
           De Dojo
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Over ons</a>
+          <a class="dropdown-item" href="dojo.php">Over ons</a>
           <a class="dropdown-item" href="#">Lidmaatschap</a>
           <a class="dropdown-item" href="#">Dojo regels</a>
           <a class="dropdown-item" href="#">Waar en wanneer</a>

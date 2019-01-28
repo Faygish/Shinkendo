@@ -15,12 +15,19 @@ div.container#vlak{
 
 }
 h1{
+    font-family: rustico;
     text-align: center;
     margin-top: 15px;
 }
 
 h3{
+    font-family: rustico;
     text-align: center;
+}
+
+#gohoGorin{
+    font-family: rustico;
+    font-size: 23px;
 }
 
 p{
@@ -57,8 +64,8 @@ a{
 }
 
 img#logo{
-    width: 150px;
-    height: 80px;
+    width: 75px;
+    height: 75px;
 }
 
 nav{
@@ -73,3 +80,8 @@ nav{
 a.nav-link{
 text-align: right;
 }
+
+@font-face {
+    font-family: rustico;
+    src: url(../font/Rustico-Regular.otf);
+  }
