@@ -32,8 +32,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="over.php">Wat is Shinkendo</a>
           <a class="dropdown-item" href="over.php#gvs">Geschiedenis van Shinkendo</a>
-          <a class="dropdown-item" href="#">De vijf pilaren</a>
-          <a class="dropdown-item" href="#">Toyama Ryu</a>
+          <a class="dropdown-item" href="over.php#goho">De vijf pilaren</a>
+          <a class="dropdown-item" href="over.php#toyama">Toyama Ryu</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -42,9 +42,9 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="dojo.php">Over ons</a>
-          <a class="dropdown-item" href="#">Lidmaatschap</a>
-          <a class="dropdown-item" href="#">Dojo regels</a>
-          <a class="dropdown-item" href="#">Waar en wanneer</a>
+          <a class="dropdown-item" href="dojo.php#wew">Waar en wanneer</a>
+          <a class="dropdown-item" href="dojo.php#lid">Lidmaatschap</a>
+          <a class="dropdown-item" href="dojo.php#regels">Dojo regels</a>
         </div>
       </li>
       <li class="nav-item">

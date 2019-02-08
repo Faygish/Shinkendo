@@ -36,7 +36,7 @@
   </a>
 </div>
     </div>
-    <h1> Wat is Shinkendo</h1>
+    <h1> Wat is Shinkendo?</h1>
     <hr>
     <p>Shinkendo is een zwaardvechtsport waarin je leert om te gaan met het Japanse zwaard, de katana. 
       <br>

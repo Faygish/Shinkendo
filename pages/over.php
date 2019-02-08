@@ -56,13 +56,13 @@
     In Shinkendo zijn rangen zijn gebaseerd op een ouder, traditioneler rangensysteem en maakt geen gebruik van het modernere Dan/Kyu systeem.
     Omdat een goede leerling niet automatisch een goede leraar is, zijn leerling- en leraarrangen opgesplitst en hiervoor kan apart examen voor worden gedaan.
     <br>
-    <br>
+    <br id='gvs'>
     Kortom, dit zijn allemaal zaken waar je in het dagelijks leven veel profijt van kunt hebben.
     </p>
  </div>
- <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
  <br>
- <div id="gvs">
+ <br>
+ <div>
  <h1> Geschiedenis van Shinkendo</h1>
     <hr>
     <p>Shinkendo is een Budo, oftewel Japanse vechtsport, gecreeërd door Obata Toshishiro.
@@ -81,15 +81,15 @@
            <li>Het intensieve sparren (tachiuchi) van <i>Yagyu Shinkage-ryu</i> en <i>Kashima Shin-ryu</i>.</li>
            <li>De krachtige slagen van <i>Jigen-ryu</i>.</li>
            <li>De vlotte en precieze tameshigiri van<i> Ioriken Battojutsu</i>.</li>
-           <li>De vloeiende lichaamsbeweging van <i>Aikido </i>en <i>Ryukyu Kobudo</i>.</li>
+           <li>De vloeiende lichaamsbeweging van <i>Aikido </i>en <i id="goho">Ryukyu Kobudo</i>.</li>
        </ul>      
     </p>
     </div>
-    <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
     <br>
-    <div id="goho">
+    <br>
+    <div>
       <h1>Goho Gorin Gogyo</h1>
-      <h3>De 5 elementen van het zwaardvechten</h3>
+      <h3>De 5 pilaren van het zwaardvechten</h3>
       <hr>
       <p>Shinkendo training is opgedeeld in 5 aparte elementen, met elk hun eigen belangrijke en specifieke doel.</p>
 
@@ -120,8 +120,8 @@ Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal s
 
 <p>Testsnijden is echter slechts één onderdeel van zwaardvechttraining, en moet niet gezien worden als het uiteindelijke doel van de training, of als vermaak of sport. Het snijden van ongeschikte materialen zoals fruit, waterflessen, etc. worden absoluut niet aangeraden of aangemoedigd. Het Japanse zwaardvechten dient met respect en oprechtheid te worden benaderd.
 </p>
+<br>
     </div>
-    <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
     <br>
     <div id="toyama">
 <h1>Toyama Ryu</h1>

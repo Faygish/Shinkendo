@@ -38,6 +38,7 @@ p{
 }
 
 img#kuyomon{
+    margin-top: 25px;
     width: 100px;
     height: 100px;
     display: block;

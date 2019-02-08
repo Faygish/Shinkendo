@@ -18,20 +18,18 @@
     <h1> Over Shinkendo Midden Nederland</h1>
     <hr>
     
-    <p>Shinkendo Midden Nederland is een officieel gelicenseerde dojo onder de Kokusai Shinkendo Renmei (International Shinkendo Federation). 
+    <p>Shinkendo Midden Nederland is een officieel gelicenseerde dojo onder de Kokusai Shinkendo Renmei (International Shinkendo Federation).</p>
       <br>
       <br>
-      De dojo is oorspronkelijk in 2003 opgericht onder de naam “Shinkendo Nunspeet” onder leiding van Walter Vendel sensei en bevond zich in Nunspeet.  
+     <p>De dojo is oorspronkelijk in 2003 opgericht onder de naam “Shinkendo Nunspeet” onder leiding van Walter Vendel sensei en bevond zich in Nunspeet.</p>
       <br>
       <br>
-      Sinds 2016 is de dojo overgenomen door een van Walter Vendel sensei’s leerlingen, Martijn van Zwolle sensei. Enige tijd later is de dojo verhuisd naar Harderwijk en is de naam veranderd naar Shinkendo Midden Nederland. Dit omdat onze studenten niet alleen uit Harderwijk, maar heel de regio midden Nederland komen. 
+      <p id="wew">Sinds 2016 is de dojo overgenomen door een van Walter Vendel sensei’s leerlingen, Martijn van Zwolle sensei. Enige tijd later is de dojo verhuisd naar Harderwijk en is de naam veranderd naar Shinkendo Midden Nederland. Dit omdat onze studenten niet alleen uit Harderwijk, maar heel de regio midden Nederland komen. 
        <br>
        <br>
     </p>
  </div>
- <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
- <br>
- <div id="wew">
+ <div>
  <h1>Waar en Wanneer?</h1>
     <hr>
   <div class="row">
@@ -58,10 +56,9 @@
 
     </div>
 </div>
-
-    <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
     <br>
-    <div id="goho">
+    <br>
+    <div id="lid">
       <h1>Lidmaatschap</h1>
       <hr>
       <p>De maandelijkse contributie aan Shinkendo Midden Nederland (SMN) bedraagt €25 en dient elke 1e van de maand te worden betaald.</p>
@@ -78,11 +75,10 @@
     <li>Bokuto (houten zwaard)</li>
     </ul>
 </div>
-<p>Tijdens de eerste lessen is het dragen van loszittende kleding toegestaan en is een bokuto te leen.</p><br>
-<p>Gevorderde leerlingen dienen een hakama (traditionele Japanse broek) dragen.</p>
-    <img src="../img/kuyomonlogoperfect.png" id="kuyomon">
+<p>Tijdens de eerste lessen is het dragen van loszittende kleding toegestaan en is een bokuto te leen. <br>
+Gevorderde leerlingen dienen een hakama (traditionele Japanse broek) dragen.</p>
     <br>
-    <div id="toyama">
+    <div id="regels">
 <h1>Dojo regels en richtlijnen</h1>
 <hr>
 
