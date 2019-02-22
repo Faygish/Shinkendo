@@ -7,19 +7,19 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="..\css\style.css">
 
   </head>
   <body>
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" id="logo" href="index.php"><img id="logo" src="../img/dojologo.png"></a>
+  <a class="navbar-brand" id="logo" href="index.php"><img id="logo" src="..\img\dojologo.png"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav" id="nav-left">
       <li class="nav-item">
-       <a id="Smn" class="nav-link" href="index.php"> Shinkendo Midden Nederland</a>
+       <a id="Smn" class="nav-link" href="index.php"> <p id="navfont">Train als een samoerai!</p></a>
 </li>
     </ul>
   </div>

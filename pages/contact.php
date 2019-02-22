@@ -34,7 +34,10 @@
 
     <?php include("./nav.php"); ?>
 
-    <div class="fb-page" data-href="https://www.facebook.com/shinkendomiddennederland" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/shinkendomiddennederland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shinkendomiddennederland">Facebook</a></blockquote></div>
+    <div class="container" id="vlak">
+
+    <div class="fb-page" data-href="https://www.facebook.com/shinkendomiddennederland" data-tabs="timeline" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" id="fb"><blockquote cite="https://www.facebook.com/shinkendomiddennederland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shinkendomiddennederland">Facebook</a></blockquote></div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

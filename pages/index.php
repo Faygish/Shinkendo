@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="..\css\style.css">
 
     <title>Shinkendo Midden Nederland</title>
   </head>
@@ -23,7 +23,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../img/carousel1.jpg" class="d-block w-100" alt="...">
+      <img src="..\img\carousel1.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -36,7 +36,7 @@
   </a>
 </div>
     </div>
-    <h1> Wat is Shinkendo?</h1>
+    <h1> Shinkendo Midden Nederland</h1>
     <hr>
     <p>Shinkendo is een zwaardvechtsport waarin je leert om te gaan met het Japanse zwaard, de katana. 
       <br>

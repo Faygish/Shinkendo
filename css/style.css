@@ -25,6 +25,14 @@ h3{
     text-align: center;
 }
 
+#navfont{
+    font-family: rustico;
+    font-size: 22px;
+    position: absolute;
+    bottom: 3px;
+    left: 75px;
+}
+
 #gohoGorin{
     font-family: rustico;
     font-size: 23px;
@@ -58,6 +66,13 @@ p#gohoGorin{
 
 #carousel{
     width: 500px;
+}
+
+div.fb-page#fb{
+    position: absolute;
+    top: 40%;
+    left: 69%;
+    transform: translate(-50%, -50%);
 }
 
 a{
