@@ -65,6 +65,8 @@
  <div>
  <h1> Geschiedenis van Shinkendo</h1>
     <hr>
+
+    
     <p>Shinkendo is een Budo, oftewel Japanse vechtsport, gecreeërd door Obata Toshishiro.
        In Japan heeft hij onder andere Yoshinkan Aikido, Yagyu Shinkage-ryu, Ioriken Battojutsu, Toyama-ryu, Kashima Shin-ryu, en vele andere (zwaard)vechtstijlen getraind en deze zichzelf meester gemaakt.<br>
        In de jaren ‘80 vertrok hij vanuit Japan naar Amerika om daar Toyama Ryu, Nakamura Ryu en Battodo te introduceren. 
@@ -74,8 +76,10 @@
       De meest krachtige concepten van diverse stijlen zijn hierin verwerkt;
  
       <br>
-       Door Shinkendo training zal je jouw kracht, conditie en coördinatievermogen vergroten, waardoor je algehele fysieke en mentale gesteldheid verbeterd wordt.  
+       Door Shinkendo training zal je jouw kracht, conditie en coördinatievermogen vergroten, waardoor je algehele fysieke en mentale gesteldheid verbeterd wordt.</p>
        <br>
+           <img  id="obata" src="../img/obata_portrait.jpg">
+             </div>
        <ul>
            <li>De snelle bewegingen en reactiesnelheid van <i> Kendo.</i></li>
            <li>Het intensieve sparren (tachiuchi) van <i>Yagyu Shinkage-ryu</i> en <i>Kashima Shin-ryu</i>.</li>
@@ -83,7 +87,6 @@
            <li>De vlotte en precieze tameshigiri van<i> Ioriken Battojutsu</i>.</li>
            <li>De vloeiende lichaamsbeweging van <i>Aikido </i>en <i id="goho">Ryukyu Kobudo</i>.</li>
        </ul>      
-    </p>
     </div>
     <br>
     <br>
@@ -99,8 +102,9 @@
 
 <p id="gohoGorin"><b>Battoho</b></p>
 
+
 <p>Tijdens battoho training wordt geleerd hoe het zwaard in een gevechtssituatie te trekken en terug te stoppen in de schede. Leerlingen beginnen hun training met een bokuto (houten zwaard) en leren hoe je het zwaard op een effectieve manier in diverse richtingen kan trekken. Gevorderde studenten gebruiken later een Iaito, een niet-geslepen oefenzwaard, en kunnen later oefenen met een Shinken, oftewel een echt zwaard.
-Trektechnieken vanuit een zittende positie (Suwari Iai) worden in Shinkendo niet gebruikt. Deze technieken zijn onpraktisch en veelal onveilig. In plaats daarvan worden trektechnieken vanuit de traditionele Fudo (staande) of Tachiaigoshi (knielende) houdingen geoefend.</p>
+Trektechnieken vanuit een zittende positie (Suwari Iai) worden in Shinkendo niet gebruikt. Deze technieken zijn onpraktisch en veelal onveilig. In plaats daarvan worden trektechnieken vanuit de traditionele Fudo (staande) of Tachiaigoshi (knielende) houdingen geoefend.</p> 
 
 <p id="gohoGorin"><b>Tanrengata</b></p>
 
@@ -109,10 +113,11 @@ Shinkendo kata leggen de nadruk op vloeiende bewegingen, soepele balansverplaats
 
 <p id="gohoGorin"><b>Tachiuchi</b></p>
 
-<p>Koryu kenjutsu is een vorm van partnertraining vanuit een positie waar beide partijen hun zwaard al hebben getrokken. In Japan bestaan nog veel kenjutsu stijlen. Training wordt veelal gedaan met een bokuto (houten zwaard), maar soms ook met een fukuro shinai (oefenzwaard van gespleten bamboe, omwikkeld met een zachte hoes). De belangrijke aspecten van koryu kenjutsu zijn opgenomen in Shinkendo onder de term Tachiuchi, oftewel vooraf bepaalde oefeningen voor 2 personen.</p>
-
-<p>Kendo is een sparring vorm waarbij een Bogu (harnas) en shinai (bamboe zwaard) worden gebruikt.
-Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal staan. Echter de waardevolle tactieken die in Kendo worden gebruikt, zijn opgenomen in Shinkendo als diverse Tachiuchi vormen.</p>
+<div class="flex-container">
+<p>Koryu kenjutsu is een vorm van partnertraining vanuit een positie waar beide partijen hun zwaard al hebben getrokken. In Japan bestaan nog veel kenjutsu stijlen. Training wordt veelal gedaan met een bokuto (houten zwaard), maar soms ook met een fukuro shinai (oefenzwaard van gespleten bamboe, omwikkeld met een zachte hoes). De belangrijke aspecten van koryu kenjutsu zijn opgenomen in Shinkendo onder de term Tachiuchi, oftewel vooraf bepaalde oefeningen voor 2 personen.
+Kendo is een sparring vorm waarbij een Bogu (harnas) en shinai (bamboe zwaard) worden gebruikt.
+Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal staan. Echter de waardevolle tactieken die in Kendo worden gebruikt, zijn opgenomen in Shinkendo als diverse Tachiuchi vormen.</p> <img id="gohogorin_img" src="../img/GohoGorinGoyo.png">
+</div>
 
 <p id="gohoGorin"><b>Tameshigiri</b></p>
 
@@ -127,8 +132,10 @@ Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal s
 <h1>Toyama Ryu</h1>
 <hr>
 
-<p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan dat van westerse sabels.
-De technieken in Toyama Ryu vinden hun oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van trektechnieken, maar is tegenwoordig een op zichzelfs staande zwaardkunst.</p>
+
+<p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan dat van westerse sabels.</p> <div class="flex-container">
+<p>De technieken in Toyama Ryu vinden hun oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van trektechnieken, maar is tegenwoordig een op zichzelfs staande zwaardkunst.</p> <img id="toyama_img" src="../img/toyamaryuhorizontal.png">
+</div>
 
 </div>
 

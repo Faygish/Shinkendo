@@ -17,17 +17,17 @@
     <div id="osmn">
     <h1> Over Shinkendo Midden Nederland</h1>
     <hr>
-    
+  
     <p>Shinkendo Midden Nederland is een officieel gelicenseerde dojo onder de Kokusai Shinkendo Renmei (International Shinkendo Federation).</p>
       <br>
-      <br>
+      
      <p>De dojo is oorspronkelijk in 2003 opgericht onder de naam “Shinkendo Nunspeet” onder leiding van Walter Vendel sensei en bevond zich in Nunspeet.</p>
       <br>
-      <br>
+      
       <p id="wew">Sinds 2016 is de dojo overgenomen door een van Walter Vendel sensei’s leerlingen, Martijn van Zwolle sensei. Enige tijd later is de dojo verhuisd naar Harderwijk en is de naam veranderd naar Shinkendo Midden Nederland. Dit omdat onze studenten niet alleen uit Harderwijk, maar heel de regio midden Nederland komen. 
        <br>
-       <br>
     </p>
+    <img id="kaisodojo" src="../img/kaisodojo.jpg">
  </div>
  <div>
  <h1>Waar en Wanneer?</h1>

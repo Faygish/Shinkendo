@@ -13,7 +13,7 @@
   </head>
   <body>
 
-  <script>
+<!--   <script>
   window.fbAsyncInit = function() {
     FB.init({
       appId            : '1846412168796831',
@@ -30,13 +30,76 @@
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-</script>
+</script> -->
 
-    <?php include("./nav.php"); ?>
+    <?php include("./nav.php");
+          //include("../phpmailer/mail.php");
+
+          if(isset($_POST['submit'])){
+
+      $subject = "Bericht van website";
+
+        $message = "Voornaam: " . $_POST['voornaam'] . "<br>" . "Achternaam: " . $_POST['achternaam'] . "<br>" . "Tel: " . $_POST['telefoon'] . "<br><br>" . $_POST['bericht'];
+
+        $headers =  "Content-Type: text/html; charset=UTF-8 \r\n";
+        $headers .= "From:" . $_POST['email'] . "\r\n";
+
+
+        mail("shinkendomiddennederland@gmail.com", $subject, $message, $headers);
+      }
+    ?>
 
     <div class="container" id="vlak">
+      <h3>Wil je ook leren zwaardvechten als de oude samoerai?</h3>
+      
+      <h3>Neem dan contact met ons op voor een <span id="proefles">gratis proefles!</span></h3>
+      <hr id="contact_txt">
 
-    <div class="fb-page" data-href="https://www.facebook.com/shinkendomiddennederland" data-tabs="timeline" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" id="fb"><blockquote cite="https://www.facebook.com/shinkendomiddennederland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shinkendomiddennederland">Facebook</a></blockquote></div>
+
+      <form role="form" method="post" action="" autocomplete="off">
+
+                <div class="row">
+          <div class="col-xs-6 col-sm-6 col-md-6">
+            <div class="form-group">
+              <input type="voornaam" name="voornaam" id="voornaam" class="form-control input-lg" placeholder="Voornaam*" tabindex="1" required="true">
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-6 col-md-6">
+            <div class="form-group">
+              <input type="achternaam" name="achternaam" id="achternaam" class="form-control input-lg" placeholder="Achternaam" tabindex="2">
+            </div>
+          </div>
+        </div>
+
+          <div class="row">
+      <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="form-group">
+          <input type="text" name="telefoon" id="telefoon" class="form-control input-lg" placeholder="Telefoonnummer*" tabindex="3" required="true">
+        </div>
+      </div>
+
+      <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="form-group">
+          <input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email adres*" tabindex="4" required="true">
+        </div>
+          </div>
+        </div>
+
+        <div class="row">
+      <div class="col-xs-6 col-md-6">
+        <div class="form-group">
+          <input id="contactbericht" type="bericht" name="bericht" id="bericht" class="form-control input-lg" placeholder="Typ hier uw bericht*" tabindex="5" required="true ">
+        </div>
+      </div>
+    </div>
+
+        <div class="row">
+          <div class="col-xs-6 col-md-6"><input type="submit" name="submit" value="Verstuur bericht!" class="btn btn-dark btn-block btn-lg" tabindex="6"></div>
+        </div>
+        </div>
+      </form>
+
+<!--     <div class="fb-page" data-href="https://www.facebook.com/shinkendomiddennederland" data-tabs="timeline" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" id="fb"><blockquote cite="https://www.facebook.com/shinkendomiddennederland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shinkendomiddennederland">Facebook</a></blockquote></div> -->
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

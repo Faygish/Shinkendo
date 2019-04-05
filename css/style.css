@@ -25,6 +25,14 @@ h3{
     text-align: center;
 }
 
+#contact_txt{
+    margin-bottom: 25px;
+}
+
+#proefles{
+    color: #590505;
+}
+
 #navfont{
     font-family: rustico;
     font-size: 22px;
@@ -64,6 +72,12 @@ p#gohoGorin{
     color: white;
 }
 
+#contactbericht{
+    height: 200px;
+}
+
+
+
 #carousel{
     width: 500px;
 }
@@ -84,6 +98,24 @@ img#logo{
     height: 75px;
 }
 
+img#gohogorin_img{
+    width: 302px;
+    height: 291px;
+}
+
+img#toyama_img{
+    width: 432px;
+    height: 154px;
+}
+img#obata{
+    width: 270px;
+    height: 306px;
+}
+
+img#kaisodojo{
+    float: right;
+}
+
 nav{
     height: 80px;
 }
@@ -96,6 +128,12 @@ nav{
 a.nav-link{
 text-align: right;
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
 
 @font-face {
     font-family: rustico;
