@@ -13,27 +13,7 @@
   </head>
   <body>
 
-<!--   <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId            : '1846412168796831',
-      autoLogAppEvents : true,
-      xfbml            : true,
-      version          : 'v3.2'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script> -->
-
     <?php include("./nav.php");
-          //include("../phpmailer/mail.php");
 
           if(isset($_POST['submit'])){
 
@@ -88,7 +68,7 @@
         <div class="row">
       <div class="col-xs-6 col-md-6">
         <div class="form-group">
-          <input id="contactbericht" type="bericht" name="bericht" id="bericht" class="form-control input-lg" placeholder="Typ hier uw bericht*" tabindex="5" required="true ">
+          <textarea id="contactbericht" type="text" name="bericht" id="bericht" class="form-control input-lg" placeholder="Typ hier uw bericht*" tabindex="5" required="true "></textarea>
         </div>
       </div>
     </div>
@@ -98,8 +78,6 @@
         </div>
         </div>
       </form>
-
-<!--     <div class="fb-page" data-href="https://www.facebook.com/shinkendomiddennederland" data-tabs="timeline" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" id="fb"><blockquote cite="https://www.facebook.com/shinkendomiddennederland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shinkendomiddennederland">Facebook</a></blockquote></div> -->
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -59,27 +59,23 @@
     <br id='gvs'>
     Kortom, dit zijn allemaal zaken waar je in het dagelijks leven veel profijt van kunt hebben.
     </p>
- </div>
  <br>
  <br>
- <div>
+
  <h1> Geschiedenis van Shinkendo</h1>
     <hr>
 
     
     <p>Shinkendo is een Budo, oftewel Japanse vechtsport, gecreeërd door Obata Toshishiro.
-       In Japan heeft hij onder andere Yoshinkan Aikido, Yagyu Shinkage-ryu, Ioriken Battojutsu, Toyama-ryu, Kashima Shin-ryu, en vele andere (zwaard)vechtstijlen getraind en deze zichzelf meester gemaakt.<br>
-       In de jaren ‘80 vertrok hij vanuit Japan naar Amerika om daar Toyama Ryu, Nakamura Ryu en Battodo te introduceren. 
- <br>
+       In Japan heeft hij onder andere Yoshinkan Aikido, Yagyu Shinkage-ryu, Ioriken Battojutsu, Toyama-ryu, Kashima Shin-ryu, en vele andere (zwaard)vechtstijlen getraind en deze zichzelf meester gemaakt.       
       <br>
-      In 1990 besloot hij om alles wat hij heeft geleerd samen te voegen tot een nieuwe, complete stijl; Shinkendo, de weg van het echte zwaard.<br>
-      De meest krachtige concepten van diverse stijlen zijn hierin verwerkt;
- 
       <br>
-       Door Shinkendo training zal je jouw kracht, conditie en coördinatievermogen vergroten, waardoor je algehele fysieke en mentale gesteldheid verbeterd wordt.</p>
-       <br>
-           <img  id="obata" src="../img/obata_portrait.jpg">
-             </div>
+      <div class="flex-container">
+      <p>In de jaren ‘80 vertrok hij vanuit Japan naar Amerika om daar Toyama Ryu, Nakamura Ryu en Battodo te introduceren. In 1990 besloot hij om alles wat hij heeft geleerd samen te voegen tot een nieuwe, complete stijl; Shinkendo, de weg van het echte zwaard. Door Shinkendo training zal je jouw kracht, conditie en coördinatievermogen vergroten, waardoor je algehele fysieke en mentale gesteldheid verbeterd wordt.</p>
+      <img  id="obata" src="../img/obata_portrait.jpg">
+        </div>
+      <p>De meest krachtige concepten van diverse stijlen zijn hierin verwerkt;</p>
+               
        <ul>
            <li>De snelle bewegingen en reactiesnelheid van <i> Kendo.</i></li>
            <li>Het intensieve sparren (tachiuchi) van <i>Yagyu Shinkage-ryu</i> en <i>Kashima Shin-ryu</i>.</li>
@@ -128,18 +124,31 @@ Dit is meer een competitiesport waarbij elkaar raken en punten scoren centraal s
 <br>
     </div>
     <br>
+    <div id="toyama_txt">
     <div id="toyama">
 <h1>Toyama Ryu</h1>
 <hr>
 
 
-<p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan dat van westerse sabels.</p> <div class="flex-container">
-<p>De technieken in Toyama Ryu vinden hun oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van trektechnieken, maar is tegenwoordig een op zichzelfs staande zwaardkunst.</p> <img id="toyama_img" src="../img/toyamaryuhorizontal.png">
+<p id="ryu">Toyama Ryu is een stijl ontwikkeld na de eerste wereldoorlog met als doel om officieren van het Japanse leger te trainen in het gebruik van een militair zwaard, een zogeheten gunto. Deze gunto fungeerde als een handwapen, gelijk aan de functie van westerse sabels.</p> <div class="flex-container">
+<p>De technieken zijn daarom praktisch en effectief, gericht op het snel trekken en gebruiken van het zwaard tegen een of meerdere tegenstanders. Toyama Ryu vindt zijn oorsprong in diverse zwaard gebruiken en zijn licht verweven met westerse militaire tradities. Oorspronkelijk was Toyama Ryu bedoeld als een beknopte compilatie van zwaardtrektechnieken, maar is tegenwoordig een opzichzelfstaande zwaardkunst.</p> <img id="toyama_img" src="../img/toyamaryuhorizontal.png">
+</div>
+<p>
+Aangezien Shinkendo ten dele is gebaseerd op Toyama Ryu en hier onlosmakelijk mee is verbonden, wordt tijdens de Shinkendo lessen ook Toyama Ryu onderwezen.
+Toyama Ryu rangen worden apart van Shinkendo rangen getest en uitgedeeld.</p>
+<p>
+Tijdens de Toyama Ryu lessen leer je het zwaard op diverse manieren te trekken, om vervolgens in één vloeiende beweging aan te vallen of te verdedigen.
+Alle technieken die je leert vormen de basis van de Battoho in Shinkendo en geven een interessante kijk en inzichten op de oorsprong hiervan.
+
+De Toyama Ryu stijl die je bij ons leert, volgt de stijl van Obata-sensei en valt onder de Kokusai Toyama Ryu Renmei (Internationale Toyama Ryu Federatie).
+</p>
+
+</div>
 </div>
 
 </div>
 
-</div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

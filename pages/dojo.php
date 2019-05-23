@@ -17,17 +17,31 @@
     <div id="osmn">
     <h1> Over Shinkendo Midden Nederland</h1>
     <hr>
-  
-    <p>Shinkendo Midden Nederland is een officieel gelicenseerde dojo onder de Kokusai Shinkendo Renmei (International Shinkendo Federation).</p>
+
+    <p>Shinkendo Midden Nederland is een officieel gelicenseerde dojo onder de Kokusai Shinkendo Renmei (Internationale Shinkendo Federatie) en de Kokusai Toyama Ryu Renmei (Internationale Toyama Ryu Federatie).</p>
       <br>
-      
-     <p>De dojo is oorspronkelijk in 2003 opgericht onder de naam “Shinkendo Nunspeet” onder leiding van Walter Vendel sensei en bevond zich in Nunspeet.</p>
+            <div class="flex-container">
+     <p>Dit betekent dat je bij ons les krijgt volgens de richtlijnen van beide federaties en je officiële examens af kan leggen in Shinkendo en Toyama Ryu.
+
+        Onze dojo is oorspronkelijk in 2003 opgericht onder de naam “Shinkendo Nunspeet” onder leiding van Walter Vendel sensei, en bevond zich in Nunspeet. 
+        Sinds 2016 is de dojo overgenomen door een van Walter Vendel sensei’s leerlingen, Martijn van Zwolle sensei.
+        <br>
+        <br>
+        Wij hebben na deze wisseling van de wacht nog enige tijd in Nunspeet getraind, maar helaas werd het pand waar onze dojo gehuisvest was verkocht.
+        Aan de ene kant spijtig dat wij afscheid moesten nemen van een plek waar wij vele goede herinneringen aan hadden, maar aan de andere kant was dit een mooie kans om deze herinneringen mee te nemen en elders een nieuwe start te maken.
+        Bovenaan ons wensenlijstje stond dat we een plek wilden die wat centraler lag en gemakkelijk bereikbaar is met het openbaar vervoer en de auto. Na een intensieve zoektocht is uiteindelijk onze keuze gevallen op Harderwijk.
+        </p>
       <br>
-      
-      <p id="wew">Sinds 2016 is de dojo overgenomen door een van Walter Vendel sensei’s leerlingen, Martijn van Zwolle sensei. Enige tijd later is de dojo verhuisd naar Harderwijk en is de naam veranderd naar Shinkendo Midden Nederland. Dit omdat onze studenten niet alleen uit Harderwijk, maar heel de regio midden Nederland komen. 
-       <br>
+          <img id="kaisodojo" src="../img/kaisodojo.jpg">
+        </div>
+
+      <p>Na een korte overgangsperiode in een relatief kleine zaal hebben wij samen met de gemeente Harderwijk een definitieve nieuwe locatie gevonden.
+        Onze huidige dojo heeft een grote spiegelwand en nóg meer ruimte dan onze oude dojo in Nunspeet.</p>
+
+        <p id="wew">Omdat de naam Shinkendo Nunspeet natuurlijk niet meer representatief was, moest er dan ook een nieuwe naam gekozen worden.
+        Aangezien onze studenten niet alleen uit Harderwijk komen en wij de enige dojo in de regio zijn, hebben wij besloten om verder te gaan onder de naam Shinkendo Midden Nederland.
+               <br>
     </p>
-    <img id="kaisodojo" src="../img/kaisodojo.jpg">
  </div>
  <div>
  <h1>Waar en Wanneer?</h1>
